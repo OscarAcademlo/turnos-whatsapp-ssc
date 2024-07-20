@@ -1,0 +1,16 @@
+.img{
+    text-align: center;
+}
+ option,select {
+    
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    
+}
+.invalid {
+    border-color: red;
+}
+
+
+
